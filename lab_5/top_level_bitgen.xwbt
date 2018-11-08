@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\jdanm\Documents\College\CECS 360 - Professor Tramel\Labs\Lab 5 - Animate Objects\lab_5\top_level.ncd
+OUTFILE=C:\Users\jdanm\Documents\College\CECS 360 - Professor Tramel\Labs\Lab 5 - Animate Objects\lab_5\top_level.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\jdanm\Documents\College\CECS 360 - Professor Tramel\Labs\Lab 5 - Animate Objects\lab_5
+LICENSE=WebPack
+USER_INFO=211087946_0_0_676

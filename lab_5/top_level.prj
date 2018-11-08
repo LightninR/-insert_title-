@@ -1,0 +1,4 @@
+verilog work "vga_animate.v"
+verilog work "vga.v"
+verilog work "aiso.v"
+verilog work "top_module.v"
